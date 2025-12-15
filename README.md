@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![League of Legends](https://img.shields.io/badge/Theme-League%20of%20Legends-0AC8FF? style=for-the-badge)
+![League of Legends](https://img.shields.io/badge/Theme-League%20of%20Legends-0AC8FF?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-93.4%25-00599C?style=for-the-badge&logo=c)
 ![Makefile](https://img.shields.io/badge/Makefile-6.6%25-427819?style=for-the-badge)
 
