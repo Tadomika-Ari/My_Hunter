@@ -6,7 +6,7 @@
 ![C](https://img.shields.io/badge/C-93.4%25-00599C?style=for-the-badge&logo=c)
 ![Makefile](https://img.shields.io/badge/Makefile-6.6%25-427819?style=for-the-badge)
 
-### 🏹 *"The heart is the strongest muscle"* - Braum
+### 🏹 *"Dream a little dream!"* - Lillia
 
 Un jeu de tir inspiré de l'univers de League of Legends, développé en C avec la bibliothèque CSFML. 
 
