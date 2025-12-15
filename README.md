@@ -18,13 +18,12 @@ Un jeu de tir inspiré de l'univers de League of Legends, développé en C avec 
 
 ## 📖 À propos
 
-**My Hunter** est un jeu de tir Duck Hunt-like revisité dans l'univers épique de **League of Legends**. Incarnez un champion et testez vos réflexes en chassant des cibles inspirées des créatures et champions de Runeterra ! 
+**My Hunter** est un jeu de tir Duck Hunt-like revisité dans l'univers épique de **League of Legends**. Incarnez un champion et testez vos réflexes en chassant des cibles inspirées des créatures ! 
 
 ### 🎮 Concept
 
 - 🎯 Visez et éliminez les cibles qui apparaissent à l'écran
 - ⚡ Gagnez des points et battez votre record
-- 🏆 Défiez vos amis pour devenir le meilleur chasseur de la Faille
 - 💀 Attention aux pénalités si vous ratez trop de cibles !
 
 ---
@@ -100,7 +99,7 @@ make re
 | 🖱️ **Clic Gauche** | Tirer |
 | ⎋ **ESC** | Quitter le jeu |
 
-### 📊 Système de Score
+### 📊 Système de Score (Prévue et à implémenter)
 
 - ✅ **Cible touchée** :  +10 points
 - 🎯 **Headshot** : +25 points (si implémenté)
@@ -144,10 +143,8 @@ My_Hunter/
 
 Ce projet s'inspire de l'univers riche de **League of Legends** :
 
-- 🏹 **Champions chasseurs** : Ashe, Caitlyn, Varus
-- 🐲 **Créatures de Runeterra** : Dragons, Baron Nashor, Herald
+- 🐲 **Créatures de Runeterra** : Carapateur (Prévue : Dragons, Baron Nashor, Herald)
 - 🎵 **Ambiance sonore** : Musiques épiques de LoL
-- 🎨 **Style visuel** : Direction artistique inspirée du jeu
 
 ---
 
